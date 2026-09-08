@@ -1,0 +1,20 @@
+{
+	"key.resourcepack-priorizer.open": "Abrir Prioridade de Packs",
+
+	"screen.resourcepack-priorizer.title": "Prioridade dos Resource Packs",
+	"screen.resourcepack-priorizer.button": "Prioridade...",
+	"screen.resourcepack-priorizer.hint": "Topo = maior prioridade. Packs locais acima da linha laranja vencem os do servidor.",
+	"screen.resourcepack-priorizer.empty": "Nenhum resource pack ativado.",
+
+	"screen.resourcepack-priorizer.override": "Local sobrepõe servidor: %s",
+	"screen.resourcepack-priorizer.keep": "Manter prioridade ao trocar pack: %s",
+	"screen.resourcepack-priorizer.builtin": "Subir tambem packs de mods: %s",
+	"screen.resourcepack-priorizer.mode": "Quais packs locais: %s",
+	"screen.resourcepack-priorizer.mode.all": "Todos",
+	"screen.resourcepack-priorizer.mode.selected": "Somente marcados",
+
+	"screen.resourcepack-priorizer.on": "LIGADO",
+	"screen.resourcepack-priorizer.off": "DESLIGADO",
+	"screen.resourcepack-priorizer.apply": "Aplicar e Recarregar",
+	"screen.resourcepack-priorizer.cancel": "Cancelar"
+}

@@ -1,0 +1,21 @@
+{
+	"key.resourcepack-priorizer.open": "Open Pack Priority",
+	"key.categories.misc": "Miscellaneous",
+
+	"screen.resourcepack-priorizer.title": "Resource Pack Priority",
+	"screen.resourcepack-priorizer.button": "Priority...",
+	"screen.resourcepack-priorizer.hint": "Top = highest priority. Local packs above the orange line win over server packs.",
+	"screen.resourcepack-priorizer.empty": "No resource packs enabled.",
+
+	"screen.resourcepack-priorizer.override": "Local overrides server: %s",
+	"screen.resourcepack-priorizer.keep": "Keep priority on pack change: %s",
+	"screen.resourcepack-priorizer.builtin": "Also lift built-in/mod packs: %s",
+	"screen.resourcepack-priorizer.mode": "Which local packs: %s",
+	"screen.resourcepack-priorizer.mode.all": "All",
+	"screen.resourcepack-priorizer.mode.selected": "Selected only",
+
+	"screen.resourcepack-priorizer.on": "ON",
+	"screen.resourcepack-priorizer.off": "OFF",
+	"screen.resourcepack-priorizer.apply": "Apply & Reload",
+	"screen.resourcepack-priorizer.cancel": "Cancel"
+}
